@@ -11,4 +11,4 @@ clone the git repo into your local machine and  under the project directory, ins
 run the project in your IDE and open in a browser tab (client ) this link http://localhost:8080 , then open the console and type 
 `let sse = new EventSource("http://localhost:8080/stream");
 sse.onmessage = console.log`
-you will have console messages received from server (server sent events)
+you will have console messages received from the node server (server sent events)
