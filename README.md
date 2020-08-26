@@ -1,3 +1,4 @@
+This little project example demonstrate how server sent events work
 ## REQUIREMENTS
 to enable the project make sure to have 'yarn' or 'npm' installed as Environment variable on your local machine by running 
 ### `yarn -v` or `npm -v`
